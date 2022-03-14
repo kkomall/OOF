@@ -6,5 +6,9 @@ public class AddTwoNumbers {
         sum = num1 + num2;
 
         System.out.println("Sum of these numbers: "+sum);
+
+        int num3=01;
+        int ans=sum-num3;
+        System.out.println("final of these numbers: "+anss);
     }
 }
